@@ -2,6 +2,6 @@
   "name": "fcu-timetable",
   "main": "timetable-worker.mjs",
   "compatibility_date": "2026-11-01",
-  "vars": { "PAGES_ORIGIN": "https://YOUR-ACCOUNT.github.io" },
+  "vars": { "PAGES_ORIGIN": "https://dogouo.github.io" },
   "observability": { "enabled": false }
 }
